@@ -1,5 +1,5 @@
 ---
-AWSTemplateFormatVersion: '2021-09-09'
+AWSTemplateFormatVersion: '20213-09-09'
 Parameters:
   EKSIAMRoleName:
     Type: String
